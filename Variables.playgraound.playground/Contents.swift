@@ -64,5 +64,11 @@ var result2 = Double(secondNum)
 print(result1)
 print(result2)
                      
-                    
+//number to string conversations
+
+var result3 = String(firstNum)
+var result4 = String(secondNum)
+
+print(result3)
+print(result4)
 
