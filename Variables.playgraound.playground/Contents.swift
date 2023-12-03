@@ -17,6 +17,12 @@ print("Instagram Adresi : \(InstagramAdress)")
 var linkedinmAdress = "https://www.linkedin.com/in/sevalaslan"
 print("Linkedin Adresi : \(linkedinmAdress)")
 
+var birthDay = "24/07/1986"
+print("Dogum Tarihi : \(birthDay)")
+
+var computerType = "Macbook Pro M2"
+print("Bilgisayar Turu : \(computerType)")
+
 
 print(ogrenciAdi)
 print(ogrenciBoy)
