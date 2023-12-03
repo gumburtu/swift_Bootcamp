@@ -72,3 +72,9 @@ var result4 = String(secondNum)
 print(result3)
 print(result4)
 
+//string to number convert
+
+var num = "35"
+var result5 = Int(num)
+
+print(result5)
