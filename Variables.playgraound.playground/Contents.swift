@@ -53,3 +53,16 @@ if (c > 30)
     }
 
 print(x)
+
+//number to number variables
+var firstNum = 45.8
+var secondNum = 123
+
+var result1 = Int(firstNum)
+var result2 = Double(secondNum)
+
+print(result1)
+print(result2)
+                     
+                    
+
